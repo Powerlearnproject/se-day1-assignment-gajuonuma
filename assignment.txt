@@ -1,0 +1,66 @@
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
+
+Milestones
+The development of programming languages
+The establishment of software engineering as a discipline in the 1960s,
+The advent of structured programming in the 1970s
+The rise of agile methodologies in the 2000s.
+
+Phases
+
+Identification and Gathering of Requirements: This involves researching, collecting and documenting user needs and system requirements.
+
+Design: This is the phase where the programmer creates high-level and detailed designs of the software architecture and user interface.
+
+Implementation: At this phase we code and build the software according to the design specifications.
+
+Testing: Testing involves conducting various tests to ensure the software meets quality standards and functional requirements.
+
+Deployment: Here the software is released to users or customers.
+
+Maintenance: Involves the provision of support, updates, and enhancements for the software after deployment.
+
+Waterfall vs. Agile Methodologies
+Agile is flexible and iterative, emphasizing continuous feedback and adaptation whereas Waterfall is sequential and rigid, with distinct phases completed in order.
+
+Agile promotes ongoing collaboration, while Waterfall focuses on thorough planning and execution in predetermined stages.
+
+In Agile, test automation is integrated into the development process from the very beginning. This means testing is done continuously throughout the development cycle, allowing quick feedback and adjustments. On the other hand, test automation in waterfall methodologies follows a more linear approach to development, with testing typically occurring at the end of the cycle. This can lead to delays and a lack of flexibility.
+
+Software Developer vs. Quality Assurance Engineer vs. Project Manager
+Software Developer: Responsible for writing code and implementing software solutions.
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Oversees the planning, execution, and delivery of software projects.
+
+Integrated Development Environments are software suites that provide comprehensive tools for writing, debugging, and testing code.
+Version Control Systems are software tools for tracking changes to source code and coordinating work among team members.
+Testing Frameworks are libraries and frameworks for automating the testing process and ensuring software quality
+
+IDEs and VCS
+Integrated Development Environments are software suites that provide comprehensive tools for writing, debugging, and testing code.
+Version Control Systems are software tools for tracking changes to source code and coordinating work among team members.
+Testing Frameworks are libraries and frameworks for automating the testing process and ensuring software quality
+
+Challenges faced by Software Engineers
+Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+
+Different Types of Testing (Unit, Integration, System and Acceptance) and their importance
+
+Unit Testing: Unit testing checks for individual components or modules of software. In unit testing, a module or component is tested in isolation. During this first round of testing, the program is submitted to assessments that focus on specific units or components of the software to determine whether each one is fully functional.
+
+Integration Testing: This kind of testing interactions between different components or subsystems. Integration testing allows individuals the opportunity to combine all of the units within a program and test them as a group. This testing level is designed to find interface defects between the modules/functions.
+
+System Testing: Testing the entire software system as a whole. System testing is the first level in which the complete application is tested as a whole. The goal at this level is to evaluate whether the system has complied with all of the outlined requirements and to see that it meets Quality Standards.
+
+Acceptance Testing: Testing the software against user requirements to ensure it meets user needs. The final level, Acceptance testing (or User Acceptance Testing), is conducted to determine whether the system is ready for release. During the Software development life cycle, requirements changes can sometimes be misinterpreted in a fashion that does not meet the intended needs of the users. During this final phase, the user will test the system to find out whether the application meets their business’ needs. Once this process has been completed and the software has passed, the program will then be delivered to production.
+
+Part 2
+Prompt Engineering Definition
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. It is the process of refining prompts that a person can input into a generative artificial intelligence (AI) service to create text or images.
+
+Example of a Vague Prompt and improvement on it
+Imagine asking a vague question like, Tell me about Birds, you'll get a more general answer; but adding details such as, Tell me about the hunting strategies of the Golden Eagle in North Africa, it is more detailed, contains contexts and will be more effective.
+
+
